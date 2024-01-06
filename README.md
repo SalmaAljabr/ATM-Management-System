@@ -12,14 +12,14 @@ The program uses a linked list structure to manage bills and keeps track of acco
 - Exit Option: Account holders can safely exit the ATM.
 
 Functions
-deposit(): Allows users to deposit cash into their accounts.
-withdraw(): Enables users to withdraw cash from their accounts.
-detail(): Displays detailed account information.
-AddBills(): Allows users to add new bills to the linked list.
-payBills(): Enables users to pay bills.
-accountExit(): Displays an exit message and gracefully exits the program.
-arrangeBillsByDate(): Uses bubble sort to arrange bills based on due dates.
-getHiddenInput(): Reads hidden input for PIN entry.
+- deposit(): Allows users to deposit cash into their accounts.
+- withdraw(): Enables users to withdraw cash from their accounts.
+- detail(): Displays detailed account information.
+- AddBills(): Allows users to add new bills to the linked list.
+- payBills(): Enables users to pay bills.
+- accountExit(): Displays an exit message and gracefully exits the program.
+- arrangeBillsByDate(): Uses bubble sort to arrange bills based on due dates.
+- getHiddenInput(): Reads hidden input for PIN entry.
 
 
 "This project was used in Data Structure & Algorithms course"
