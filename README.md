@@ -23,5 +23,5 @@ Functions
 
 - The password for the program is: 12345
 
-> Note: This project was completed during the academic year 2023-2024 for the Data Structure & Algorithms course in C++ as "Sophomore student".
+> Note: This project was completed during the academic year 2023-2024 for the Data Structure & Algorithms course in C++ as a "Sophomore student".
 
