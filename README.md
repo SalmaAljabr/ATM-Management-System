@@ -21,8 +21,8 @@ Functions
 - arrangeBillsByDate(): Uses bubble sort to arrange bills based on due dates.
 - getHiddenInput(): Reads hidden input for PIN entry.
 
-  The password for the program is:
+- The password for the program is:
    - Password: 12345
 
-> Note: This project was completed during the academic year 2023-2024 for the Data Structure & Algorithms course in C++.
+> Note: This project was completed during the academic year 2023-2024 for the Data Structure & Algorithms course in C++ as "Sophomore student".
 
