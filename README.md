@@ -21,5 +21,5 @@ Functions
 - arrangeBillsByDate(): Uses bubble sort to arrange bills based on due dates.
 - getHiddenInput(): Reads hidden input for PIN entry.
 
+> Note: This project was completed during the academic year 2023-2024 for the Data Structure & Algorithms course in C++.
 
-"This project was used in Data Structure & Algorithms course"
